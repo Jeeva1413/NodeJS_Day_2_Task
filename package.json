@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_day_2_task",
+  "version": "1.0.0",
+  "description": "Node js day 2 task of CRUD operations",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Jeeva Rajendran",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^3.6.0",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.1"
+  }
+}
